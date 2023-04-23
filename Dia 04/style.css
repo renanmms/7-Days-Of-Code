@@ -1,0 +1,21 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box > input {
+    max-width: 100vh;
+    height: 10vh;
+    font-size: 8vh;
+}
+
+.box > button {
+    font-size: 6vh;
+}
+
+#resposta {
+    font-size: 8vh;
+}
+
